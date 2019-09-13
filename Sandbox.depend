@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1559656075 source:c:\users\flavius\desktop\code\c++\game2\sandbox\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+
